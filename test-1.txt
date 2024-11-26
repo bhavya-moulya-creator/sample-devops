@@ -1,0 +1,20 @@
+1.Explain each field of /etc/passwd ,What is the default permission on user's home 
+directory?
+2.What is the command to create a user with a pre defined uid, shell and 
+home directory?
+3.perform root p/w breaking = sarah777?
+4.What is the command to change and view the expiry date for any user?set the p/w 
+expiry date of any user account for december 23 of this year , and warning 
+period of 10 days ,with maximum number of p/w change for 2 days 
+5.What are the different modes when using the vi editor?
+6.Explain File Permission groups in Linux?
+7.What is umask?How to set the mask permanently for a user? 
+8.How to lock a user account in Linux?
+9.How do users create a hard link & symbolic link in Linux? 
+10.can we perform hardlink for folder.....................?
+11.what is ssh ?perform with steps
+12.what is read , write , execute define ?
+13.change the user and group owner for a file .....with a user name "rahul "
+14.mention the default file and folder permission ?chnage the permission of 
+folder recurrently with "611" ?
+15.modify the group , by adding the same people to other groups ...by inheritance ... 
